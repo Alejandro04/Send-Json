@@ -7,4 +7,4 @@ Raise a server and send a json via http
 
 ### Execute:
 
-* run go json.go
+* go run json.go
